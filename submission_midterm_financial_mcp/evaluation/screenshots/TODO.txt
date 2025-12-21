@@ -1,0 +1,5 @@
+Missing screenshots for evaluation metrics (need at least 3):
+- correctness.png
+- faithfulness.png
+- coverage.png
+Place them in this folder.
